@@ -1,2 +1,3 @@
 # pagination-content-filter
-Treehouse Javascript Techdegree Project #2 - Pagination &amp; Content Filter
+A small pagination project in Javascript.
+(UI design and CSS provided by teamTreehouse.com)
